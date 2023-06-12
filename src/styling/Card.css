@@ -1,0 +1,39 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 19px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.text p{
+    font-size: 10.24px;
+}
+
+.text h1 {
+    font-size: 25px;
+}
+
+.text a{
+    font-size: 10.24px;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.location a{
+    color: #918E9B;
+    margin-left: 8px;
+}
+
+.date{
+    font-weight: 700;
+}
